@@ -1,0 +1,120 @@
+---
+object: card
+id: 307d53c7-ef63-464f-b5f0-90220ee2b575
+oracle_id: 5ed23ed2-be2f-4958-affe-429f58e9dca5
+multiverse_ids:
+- 122280
+mtgo_id: 26223
+mtgo_foil_id: 26224
+tcgplayer_id: 14733
+cardmarket_id: 14234
+name: Gossamer Phantasm
+lang: en
+released_at: '2007-02-02'
+uri: https://api.scryfall.com/cards/307d53c7-ef63-464f-b5f0-90220ee2b575
+scryfall_uri: https://scryfall.com/card/plc/55/gossamer-phantasm?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/0/307d53c7-ef63-464f-b5f0-90220ee2b575.jpg?1562569059
+  normal: https://cards.scryfall.io/normal/front/3/0/307d53c7-ef63-464f-b5f0-90220ee2b575.jpg?1562569059
+  large: https://cards.scryfall.io/large/front/3/0/307d53c7-ef63-464f-b5f0-90220ee2b575.jpg?1562569059
+  png: https://cards.scryfall.io/png/front/3/0/307d53c7-ef63-464f-b5f0-90220ee2b575.png?1562569059
+  art_crop: https://cards.scryfall.io/art_crop/front/3/0/307d53c7-ef63-464f-b5f0-90220ee2b575.jpg?1562569059
+  border_crop: https://cards.scryfall.io/border_crop/front/3/0/307d53c7-ef63-464f-b5f0-90220ee2b575.jpg?1562569059
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Creature — Illusion
+oracle_text: |-
+  Flying
+  When Gossamer Phantasm becomes the target of a spell or ability, sacrifice it.
+power: '2'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5a1b571c-73e9-4c14-b9d4-a62507d85789
+set: plc
+set_name: Planar Chaos
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5a1b571c-73e9-4c14-b9d4-a62507d85789
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aplc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/plc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/307d53c7-ef63-464f-b5f0-90220ee2b575/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5ed23ed2-be2f-4958-affe-429f58e9dca5&unique=prints
+collector_number: '55'
+digital: false
+rarity: common
+flavor_text: |-
+  "Belief matters more than truth. Every moment, belief in imaginary things alters lives while truth sits unnoticed and waits."
+  —Hakim, Loreweaver
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jon Foster
+artist_ids:
+- be1fa767-c905-49b1-afcf-77a8e9ebbd31
+illustration_id: 27e761f0-04b7-4b53-b533-d0ba77ec9595
+border_color: black
+frame: '2003'
+frame_effects:
+- colorshifted
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20881
+penny_rank: 6708
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.20'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122280
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gossamer+Phantasm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gossamer+Phantasm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gossamer+Phantasm
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14733?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gossamer+Phantasm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/26223?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
